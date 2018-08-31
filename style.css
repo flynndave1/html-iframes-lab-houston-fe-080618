@@ -10,5 +10,7 @@ form * {
 
 #checkbox {
   display:inline;
-
+}
+h1 {
+  color: blue;
 }
